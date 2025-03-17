@@ -22,7 +22,7 @@ J’ai choisi PHP car c’est un langage largement utilisé dans le développeme
 
 ### 🌐 **Sites Web & Blogs**  
 
-| 🏷️ Nom | 🔗 Lien | 📌 Description | ⭐ Note | 📢 Justification |
+|  Nom |  Lien |  Description |  Note |  Justification |
 |---|---|---|---|---|
 | **Site officiel de PHP** | [php.net](https://www.php.net/) | Documentation officielle de PHP et dernières sorties | ⭐⭐⭐⭐ | Source officielle du langage PHP, fiable et régulièrement mise à jour |
 | **PHP.watch** | [php.watch](https://php.watch/) | Nouveautés sur PHP via des articles et documentations | ⭐⭐⭐⭐⭐ | Source réputée offrant des articles techniques détaillés et des mises à jour sur PHP |
@@ -37,17 +37,16 @@ J’ai choisi PHP car c’est un langage largement utilisé dans le développeme
 
 ### 🐦 **Réseaux Sociaux**  
 
-| 🏷️ Nom | 🔗 Lien | 📌 Description | ⭐ Note | 📢 Justification |
+|  Nom |  Lien |  Description |  Note |  Justification |
 |---|---|---|---|---|
 | **Twitter PHP Officiel** | [@official_php](https://twitter.com/official_php) | Annonce des nouveautés PHP | ⭐⭐⭐⭐ | Source fiable pour les annonces officielles PHP |
 | **PHP Community (Twitter)** | [@phpc](https://twitter.com/phpc) | News et discussions PHP | ⭐⭐⭐ | Communauté active partageant des ressources utiles |
 | **PHP Developer Org (Twitter)** | [@phpdeveloper](https://twitter.com/phpdeveloper) | Releases PHP | ⭐⭐ | Moins actif mais bon pour suivre les mises à jour |
-
 ---
 
 ### 🎥 **YouTube**  
 
-| 🏷️ Chaîne | 🔗 Lien | 📌 Description | ⭐ Note | 📢 Justification |
+|  Chaîne |  Lien |  Description |  Note |  Justification |
 |---|---|---|---|---|
 | **Gary Clarke Tech** | [YouTube](https://www.youtube.com/c/GaryClarkeTech) | Cours sur les nouveautés PHP | ⭐⭐⭐ | Chaîne pédagogique avec tutoriels pratiques |
 | **Dave Hollingworth** | [YouTube](https://www.youtube.com/c/DavehIo) | Vidéos sur PHP et autres technologies | ⭐⭐⭐ | Explications claires et mises à jour fréquentes |
@@ -57,7 +56,7 @@ J’ai choisi PHP car c’est un langage largement utilisé dans le développeme
 
 ### 🔥 **Hashtags à suivre sur Twitter (X)**  
 
-| 🏷️ Hashtag | 🔗 Lien | 📌 Description | ⭐ Note | 📢 Justification |
+|  Hashtag |  Lien |  Description |  Note |  Justification |
 |---|---|---|---|---|
 | **#PHP** | [🔗 Lien](https://x.com/search?q=%23php&src=typed_query) | Regroupe toutes les discussions et annonces PHP | ⭐⭐⭐⭐⭐ | Hashtag principal pour tout ce qui concerne PHP |
 | **#WebDevelopment** | [🔗 Lien](https://x.com/search?q=%23webdevelopment&src=typed_query&f=top) | Tendance sur le développement web, incluant PHP | ⭐⭐⭐ | Source large incluant des articles et discussions PHP |
@@ -67,7 +66,7 @@ J’ai choisi PHP car c’est un langage largement utilisé dans le développeme
 
 ### 👥 **Groupes & Communautés**  
 
-| 🏷️ Nom | 🔗 Lien | 📌 Description | ⭐ Note | 📢 Justification |
+|  Nom |  Lien |  Description |  Note |  Justification |
 |---|---|---|---|---|
 | **PHP Developer Network (LinkedIn)** | [🔗 Lien](https://www.linkedin.com/groups/87251/) | Groupe de plus de 40 000 membres sur PHP | ⭐⭐⭐⭐ | Échanges entre professionnels du développement PHP |
 | **PHP Developer (Facebook)** | [🔗 Lien](https://www.facebook.com/groups/278011135560226/) | Groupe actif avec posts quotidiens | ⭐⭐⭐⭐ | Communauté d'entraide pour développeurs PHP |
@@ -76,11 +75,12 @@ J’ai choisi PHP car c’est un langage largement utilisé dans le développeme
 
 ### 🔔 **Outils de Veille Automatisée**  
 
-| 🏷️ Nom | 🔗 Lien | 📌 Description | ⭐ Note | 📢 Justification |
+|  Nom |  Lien |  Description |  Note |  Justification |
 |---|---|---|---|---|
 | **Google Alerts (PHP News & Tutoriels)** | [🔗 Lien](https://www.google.com/alerts) | Alertes automatiques sur les nouveautés PHP | ⭐⭐⭐⭐⭐ | Permet de recevoir directement les actualités PHP par mail |
 | **GitHub PHP** | [🔗 Lien](https://github.com/php) | Dépôt officiel du langage PHP | ⭐⭐⭐⭐⭐ | Accès direct aux nouvelles fonctionnalités, bugs et discussions sur PHP |
-
+| **PHP Weekly** | [🔗 Lien](https://phpweekly.com/) | Newsletter pour PHP | ⭐⭐⭐⭐ | Couvre l’actualité PHP, les nouvelles versions, les tendances et les événements |
+| **PHP Architect** | [🔗 Lien](https://www.phparch.com/) | Newsletter pour PHP | ⭐⭐ | Une newsletter payante, mais très technique et complète, contient des articles d’experts, des études de cas et des conseils avancés |
 ---
 
 ## 🚀 **Conclusion**  
